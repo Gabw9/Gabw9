@@ -6,7 +6,7 @@ Estou estudando para me tornar um desenvolvedor Full Stack, com paixão por tran
 - 🔭 Atualmente estou estudando na infinity school
 - 🌱 Estou aprendendo html, css e javascript 
 - 👯 Estou procurando colaborar em projetos
-- 🤔 Estou procurando ajuda com projetos em css 
+- 🤔 Estou procurando ajuda com projetos em javascript
 - 📫 Como entrar em contato comigo: gabprog4100@gmail.com
 - ⚡ Curiosidade:  
 
