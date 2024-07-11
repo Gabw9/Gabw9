@@ -7,8 +7,8 @@ Estou estudando para me tornar um desenvolvedor Full Stack, com paixão por tran
 - 🌱 Estou aprendendo html, css e javascript 
 - 👯 Estou procurando colaborar em projetos
 - 🤔 Estou procurando ajuda com projetos em javascript
-- 📫 Como entrar em contato comigo: gabprog4100@gmail.com
-- ⚡ Curiosidade:  
+- 📫 Como entrar em contato comigo: britogabriel4100@gmail.com
+- ⚡ Curiosidade: me identifico com criação de jogos com historias interativas 
 
 ## Minhas Estatísticas
 
